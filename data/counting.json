@@ -1,0 +1,485 @@
+{
+    "categories": [
+        {
+            "title": "Tháng (～月／～がつ)",
+            "items": [
+                {
+                    "japanese": "いちがつ",
+                    "vietnamese": "Tháng 1"
+                },
+                {
+                    "japanese": "にがつ",
+                    "vietnamese": "Tháng 2"
+                },
+                {
+                    "japanese": "さんがつ",
+                    "vietnamese": "Tháng 3"
+                },
+                {
+                    "japanese": "しがつ",
+                    "vietnamese": "Tháng 4"
+                },
+                {
+                    "japanese": "ごがつ",
+                    "vietnamese": "Tháng 5"
+                },
+                {
+                    "japanese": "ろくがつ",
+                    "vietnamese": "Tháng 6"
+                },
+                {
+                    "japanese": "しちがつ",
+                    "vietnamese": "Tháng 7"
+                },
+                {
+                    "japanese": "はちがつ",
+                    "vietnamese": "Tháng 8"
+                },
+                {
+                    "japanese": "くがつ",
+                    "vietnamese": "Tháng 9"
+                },
+                {
+                    "japanese": "じゅうがつ",
+                    "vietnamese": "Tháng 10"
+                },
+                {
+                    "japanese": "じゅういちがつ",
+                    "vietnamese": "Tháng 11"
+                },
+                {
+                    "japanese": "じゅうにがつ",
+                    "vietnamese": "Tháng 12"
+                }
+            ]
+        },
+        {
+            "title": "Ngày (～日／～にち)",
+            "items": [
+                {
+                    "japanese": "ついたち",
+                    "vietnamese": "Ngày 1"
+                },
+                {
+                    "japanese": "ふつか",
+                    "vietnamese": "Ngày 2"
+                },
+                {
+                    "japanese": "みっか",
+                    "vietnamese": "Ngày 3"
+                },
+                {
+                    "japanese": "よっか",
+                    "vietnamese": "Ngày 4"
+                },
+                {
+                    "japanese": "いつか",
+                    "vietnamese": "Ngày 5"
+                },
+                {
+                    "japanese": "むいか",
+                    "vietnamese": "Ngày 6"
+                },
+                {
+                    "japanese": "なのか",
+                    "vietnamese": "Ngày 7"
+                },
+                {
+                    "japanese": "ようか",
+                    "vietnamese": "Ngày 8"
+                },
+                {
+                    "japanese": "ここのか",
+                    "vietnamese": "Ngày 9"
+                },
+                {
+                    "japanese": "とおか",
+                    "vietnamese": "Ngày 10"
+                },
+                {
+                    "japanese": "じゅうよっか",
+                    "vietnamese": "Ngày 14"
+                },
+                {
+                    "japanese": "じゅうしちにち",
+                    "vietnamese": "Ngày 17"
+                },
+                {
+                    "japanese": "じゅうくにち",
+                    "vietnamese": "Ngày 19"
+                },
+                {
+                    "japanese": "はつか",
+                    "vietnamese": "Ngày 20"
+                },
+                {
+                    "japanese": "にじゅうよっか",
+                    "vietnamese": "Ngày 24"
+                }
+            ]
+        },
+        {
+            "title": "Thứ (～曜日／～ようび)",
+            "items": [
+                {
+                    "japanese": "日曜日／にちようび",
+                    "vietnamese": "Chủ nhật"
+                },
+                {
+                    "japanese": "月曜日／げつようび",
+                    "vietnamese": "Thứ 2"
+                },
+                {
+                    "japanese": "火曜日／かようび",
+                    "vietnamese": "Thứ 3"
+                },
+                {
+                    "japanese": "水曜日／すいようび",
+                    "vietnamese": "Thứ 4"
+                },
+                {
+                    "japanese": "木曜日／もくようび",
+                    "vietnamese": "Thứ 5"
+                },
+                {
+                    "japanese": "金曜日／きんようび",
+                    "vietnamese": "Thứ 6"
+                },
+                {
+                    "japanese": "土曜日／どようび",
+                    "vietnamese": "Thứ 7"
+                }
+            ]
+        },
+        {
+            "title": "Giờ (～時／～じ)",
+            "items": [
+                {
+                    "japanese": "いちじ",
+                    "vietnamese": "1 giờ"
+                },
+                {
+                    "japanese": "にじ",
+                    "vietnamese": "2 giờ"
+                },
+                {
+                    "japanese": "さんじ",
+                    "vietnamese": "3 giờ"
+                },
+                {
+                    "japanese": "よじ",
+                    "vietnamese": "4 giờ"
+                },
+                {
+                    "japanese": "ごじ",
+                    "vietnamese": "5 giờ"
+                },
+                {
+                    "japanese": "ろくじ",
+                    "vietnamese": "6 giờ"
+                },
+                {
+                    "japanese": "しちじ",
+                    "vietnamese": "7 giờ"
+                },
+                {
+                    "japanese": "はちじ",
+                    "vietnamese": "8 giờ"
+                },
+                {
+                    "japanese": "くじ",
+                    "vietnamese": "9 giờ"
+                },
+                {
+                    "japanese": "じゅうじ",
+                    "vietnamese": "10 giờ"
+                },
+                {
+                    "japanese": "じゅういちじ",
+                    "vietnamese": "11 giờ"
+                },
+                {
+                    "japanese": "じゅうにじ",
+                    "vietnamese": "12 giờ"
+                }
+            ]
+        },
+        {
+            "title": "Phút (～分／～ふん／～ぷん)",
+            "items": [
+                {
+                    "japanese": "いっぷん",
+                    "vietnamese": "1 phút"
+                },
+                {
+                    "japanese": "にふん",
+                    "vietnamese": "2 phút"
+                },
+                {
+                    "japanese": "さんぷん",
+                    "vietnamese": "3 phút"
+                },
+                {
+                    "japanese": "よんぷん",
+                    "vietnamese": "4 phút"
+                },
+                {
+                    "japanese": "ごふん",
+                    "vietnamese": "5 phút"
+                },
+                {
+                    "japanese": "ろっぷん",
+                    "vietnamese": "6 phút"
+                },
+                {
+                    "japanese": "ななふん",
+                    "vietnamese": "7 phút"
+                },
+                {
+                    "japanese": "はっぷん",
+                    "vietnamese": "8 phút"
+                },
+                {
+                    "japanese": "きゅうふん",
+                    "vietnamese": "9 phút"
+                },
+                {
+                    "japanese": "じゅっぷん",
+                    "vietnamese": "10 phút"
+                },
+                {
+                    "japanese": "にじゅっぷん",
+                    "vietnamese": "20 phút"
+                },
+                {
+                    "japanese": "さんじゅっぷん",
+                    "vietnamese": "30 phút"
+                }
+            ]
+        },
+        {
+            "title": "Tuổi (～歳／～さい)",
+            "items": [
+                {
+                    "japanese": "いっさい",
+                    "vietnamese": "1 tuổi"
+                },
+                {
+                    "japanese": "にさい",
+                    "vietnamese": "2 tuổi"
+                },
+                {
+                    "japanese": "さんさい",
+                    "vietnamese": "3 tuổi"
+                },
+                {
+                    "japanese": "よんさい",
+                    "vietnamese": "4 tuổi"
+                },
+                {
+                    "japanese": "ごさい",
+                    "vietnamese": "5 tuổi"
+                },
+                {
+                    "japanese": "ろくさい",
+                    "vietnamese": "6 tuổi"
+                },
+                {
+                    "japanese": "ななさい",
+                    "vietnamese": "7 tuổi"
+                },
+                {
+                    "japanese": "はっさい",
+                    "vietnamese": "8 tuổi"
+                },
+                {
+                    "japanese": "きゅうさい",
+                    "vietnamese": "9 tuổi"
+                },
+                {
+                    "japanese": "じゅっさい",
+                    "vietnamese": "10 tuổi"
+                },
+                {
+                    "japanese": "はたち",
+                    "vietnamese": "20 tuổi"
+                }
+            ]
+        },
+        {
+            "title": "Tầng (～階／～かい)",
+            "items": [
+                {
+                    "japanese": "いっかい",
+                    "vietnamese": "Tầng 1"
+                },
+                {
+                    "japanese": "にかい",
+                    "vietnamese": "Tầng 2"
+                },
+                {
+                    "japanese": "さんがい",
+                    "vietnamese": "Tầng 3"
+                },
+                {
+                    "japanese": "よんかい",
+                    "vietnamese": "Tầng 4"
+                },
+                {
+                    "japanese": "ごかい",
+                    "vietnamese": "Tầng 5"
+                },
+                {
+                    "japanese": "ろっかい",
+                    "vietnamese": "Tầng 6"
+                },
+                {
+                    "japanese": "ななかい",
+                    "vietnamese": "Tầng 7"
+                },
+                {
+                    "japanese": "はっかい",
+                    "vietnamese": "Tầng 8"
+                },
+                {
+                    "japanese": "きゅうかい",
+                    "vietnamese": "Tầng 9"
+                },
+                {
+                    "japanese": "じゅっかい",
+                    "vietnamese": "Tầng 10"
+                }
+            ]
+        },
+        {
+            "title": "Đếm đồ vật (～つ)",
+            "items": [
+                {
+                    "japanese": "ひとつ",
+                    "vietnamese": "1 cái"
+                },
+                {
+                    "japanese": "ふたつ",
+                    "vietnamese": "2 cái"
+                },
+                {
+                    "japanese": "みっつ",
+                    "vietnamese": "3 cái"
+                },
+                {
+                    "japanese": "よっつ",
+                    "vietnamese": "4 cái"
+                },
+                {
+                    "japanese": "いつつ",
+                    "vietnamese": "5 cái"
+                },
+                {
+                    "japanese": "むっつ",
+                    "vietnamese": "6 cái"
+                },
+                {
+                    "japanese": "ななつ",
+                    "vietnamese": "7 cái"
+                },
+                {
+                    "japanese": "やっつ",
+                    "vietnamese": "8 cái"
+                },
+                {
+                    "japanese": "ここのつ",
+                    "vietnamese": "9 cái"
+                },
+                {
+                    "japanese": "とお",
+                    "vietnamese": "10 cái"
+                },
+                {
+                    "japanese": "いくつ",
+                    "vietnamese": "mấy cái?"
+                }
+            ]
+        },
+        {
+            "title": "Số đếm",
+            "items": [
+                {
+                    "japanese": "100",
+                    "vietnamese": "ひゃく"
+                },
+                {
+                    "japanese": "200",
+                    "vietnamese": "にひゃく"
+                },
+                {
+                    "japanese": "300",
+                    "vietnamese": "さんびゃく"
+                },
+                {
+                    "japanese": "400",
+                    "vietnamese": "よんひゃく"
+                },
+                {
+                    "japanese": "500",
+                    "vietnamese": "ごひゃく"
+                },
+                {
+                    "japanese": "600",
+                    "vietnamese": "ろっぴゃく"
+                },
+                {
+                    "japanese": "700",
+                    "vietnamese": "ななひゃく"
+                },
+                {
+                    "japanese": "800",
+                    "vietnamese": "はっぴゃく"
+                },
+                {
+                    "japanese": "900",
+                    "vietnamese": "きゅうひゃく"
+                },
+                {
+                    "japanese": "1,000",
+                    "vietnamese": "せん"
+                },
+                {
+                    "japanese": "2,000",
+                    "vietnamese": "にせん"
+                },
+                {
+                    "japanese": "3,000",
+                    "vietnamese": "さんぜん"
+                },
+                {
+                    "japanese": "4,000",
+                    "vietnamese": "よんせん"
+                },
+                {
+                    "japanese": "5,000",
+                    "vietnamese": "ごせん"
+                },
+                {
+                    "japanese": "6,000",
+                    "vietnamese": "ろくせん"
+                },
+                {
+                    "japanese": "7,000",
+                    "vietnamese": "ななせん"
+                },
+                {
+                    "japanese": "8,000",
+                    "vietnamese": "はっせん"
+                },
+                {
+                    "japanese": "9,000",
+                    "vietnamese": "きゅうせん"
+                },
+                {
+                    "japanese": "10,000",
+                    "vietnamese": "いちまん"
+                }
+            ]
+        }
+    ]
+}

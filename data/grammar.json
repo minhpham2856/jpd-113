@@ -1,0 +1,95 @@
+{
+    "categories": [
+        {
+            "title": "Vị trí / Location words",
+            "items": [
+                "上 / うえ – trên",
+                "下 / した – dưới",
+                "前 / まえ – trước",
+                "後ろ / うしろ – sau",
+                "右 / みぎ – phải",
+                "左 / ひだり – trái",
+                "中 / なか – trong",
+                "外 / そと – ngoài"
+            ]
+        },
+        {
+            "title": "Hỏi tên trường / công ty / nhà",
+            "items": [
+                "学校はどこですか？ – Trường học ở đâu?",
+                "会社はどちらですか？ – Công ty ở đâu?",
+                "うち / 家はどこですか？ – Nhà bạn ở đâu?"
+            ]
+        },
+        {
+            "title": "Xuất xứ / Nationality",
+            "items": [
+                "お国はどちらですか？ – Nước bạn là nước nào?",
+                "私はベトナム人です。 – Tôi là người Việt Nam."
+            ]
+        },
+        {
+            "title": "Tiền / Money",
+            "items": [
+                "いくらですか？ – Bao nhiêu tiền?",
+                "～円です。 – Là ~ yên."
+            ]
+        },
+        {
+            "title": "Cấu trúc khẳng định / phủ định",
+            "items": [
+                "～です。 – Là … (khẳng định)",
+                "～ではありません。 – Không phải … (phủ định)"
+            ]
+        },
+        {
+            "title": "Thể loại / Chủng loại / Loại đồ vật",
+            "items": [
+                "これは何ですか？ – Đây là cái gì?",
+                "～は～です。 – … là …"
+            ]
+        },
+        {
+            "title": "Liệt kê / And / Thêm",
+            "items": [
+                "～と～ – và …",
+                "～や～ – và … (liệt kê không đầy đủ)"
+            ]
+        },
+        {
+            "title": "Thời gian / Time",
+            "items": [
+                "いま何時ですか？ – Bây giờ là mấy giờ?",
+                "～時 / ～じ – giờ",
+                "～分 / ～ふん – phút",
+                "毎朝 / まいあさ – mỗi sáng",
+                "毎晩 / まいばん – mỗi tối"
+            ]
+        },
+        {
+            "title": "Chia động từ / Verb conjugation",
+            "items": [
+                "行きます – Đi",
+                "来ます – Đến",
+                "食べます – Ăn",
+                "飲みます – Uống",
+                "見ます – Nhìn / Xem",
+                "します – Làm, chơi"
+            ]
+        },
+        {
+            "title": "Di chuyển / Movement verbs",
+            "items": [
+                "行く – Đi",
+                "帰る – Về",
+                "来る – Đến"
+            ]
+        },
+        {
+            "title": "Hỏi từ này bằng ngôn ngữ khác",
+            "items": [
+                "「コンピュータ」はベトナム語で何ですか？ – 'Computer' bằng tiếng Việt là gì?"
+            ]
+        }
+    ]
+}

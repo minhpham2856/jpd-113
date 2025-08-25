@@ -1,0 +1,1043 @@
+{
+    "unit1": [
+        {
+            "kanji": "私",
+            "hiragana": "わたし",
+            "vietnamese": "Tôi"
+        },
+        {
+            "kanji": "（お）名前",
+            "hiragana": "（お）なまえ",
+            "vietnamese": "Tên (bạn)"
+        },
+        {
+            "kanji": "（お）国",
+            "hiragana": "（お）くに",
+            "vietnamese": "Đất nước (bạn)"
+        },
+        {
+            "kanji": "日本",
+            "hiragana": "にほん",
+            "vietnamese": "Nhật Bản"
+        },
+        {
+            "kanji": "アメリカ",
+            "hiragana": "アメリカ",
+            "vietnamese": "Mỹ"
+        },
+        {
+            "kanji": "イタリア",
+            "hiragana": "イタリア",
+            "vietnamese": "Ý"
+        },
+        {
+            "kanji": "オーストラリア",
+            "hiragana": "オーストラリア",
+            "vietnamese": "Úc"
+        },
+        {
+            "kanji": "韓国",
+            "hiragana": "かんこく",
+            "vietnamese": "Hàn Quốc"
+        },
+        {
+            "kanji": "タイ",
+            "hiragana": "タイ",
+            "vietnamese": "Thái Lan"
+        },
+        {
+            "kanji": "中国",
+            "hiragana": "ちゅうごく",
+            "vietnamese": "Trung Quốc"
+        },
+        {
+            "kanji": "ロシア",
+            "hiragana": "ロシア",
+            "vietnamese": "Nga"
+        },
+        {
+            "kanji": "高校",
+            "hiragana": "こうこう",
+            "vietnamese": "Trường trung học phổ thông (cấp 3)"
+        },
+        {
+            "kanji": "大学",
+            "hiragana": "だいがく",
+            "vietnamese": "Trường đại học"
+        },
+        {
+            "kanji": "日本語学校",
+            "hiragana": "にほんごがっこう",
+            "vietnamese": "Trường tiếng Nhật"
+        },
+        {
+            "kanji": "（お）仕事",
+            "hiragana": "（お）しごと",
+            "vietnamese": "Công việc (của bạn)"
+        },
+        {
+            "kanji": "学生",
+            "hiragana": "がくせい",
+            "vietnamese": "Học sinh"
+        },
+        {
+            "kanji": "先生",
+            "hiragana": "せんせい",
+            "vietnamese": "Thầy/Cô giáo"
+        },
+        {
+            "kanji": "教師",
+            "hiragana": "きょうし",
+            "vietnamese": "Giáo viên"
+        },
+        {
+            "kanji": "会社員",
+            "hiragana": "かいしゃいん",
+            "vietnamese": "Nhân viên văn phòng"
+        },
+        {
+            "kanji": "社員",
+            "hiragana": "しゃいん",
+            "vietnamese": "Nhân viên (của công ty nào đó)"
+        },
+        {
+            "kanji": "～さん",
+            "hiragana": "～さん",
+            "vietnamese": "Anh/Chị/Ông/Bà/Bạn ～"
+        },
+        {
+            "kanji": "～人",
+            "hiragana": "～じん",
+            "vietnamese": "Người (nước nào)"
+        },
+        {
+            "kanji": "どちら",
+            "hiragana": "どちら",
+            "vietnamese": "Ở đâu / Phía nào"
+        },
+        {
+            "kanji": "お国はどちらですか",
+            "hiragana": "おくにはどちらですか",
+            "vietnamese": "Đất nước của bạn là nước nào?"
+        },
+        {
+            "kanji": "はじめまして",
+            "hiragana": "はじめまして",
+            "vietnamese": "Xin chào (lần đầu gặp mặt)"
+        },
+        {
+            "kanji": "（どうぞ）よろしくお願いします",
+            "hiragana": "（どうぞ）よろしくおねがいします",
+            "vietnamese": "Rất mong nhận được sự giúp đỡ của bạn"
+        },
+        {
+            "kanji": "こちらこそ",
+            "hiragana": "こちらこそ",
+            "vietnamese": "Tôi cũng vậy!"
+        },
+        {
+            "kanji": "あのう",
+            "hiragana": "あのう",
+            "vietnamese": "Anh / chị ơi… Xin lỗi cho hỏi…"
+        },
+        {
+            "kanji": "すみません",
+            "hiragana": "すみません",
+            "vietnamese": "Xin lỗi… cho tôi hỏi…"
+        },
+        {
+            "kanji": "そうですか",
+            "hiragana": "そうですか",
+            "vietnamese": "Thế à!"
+        },
+        {
+            "kanji": "はい",
+            "hiragana": "はい",
+            "vietnamese": "Dạ, vâng"
+        },
+        {
+            "kanji": "いいえ",
+            "hiragana": "いいえ",
+            "vietnamese": "Không, không phải"
+        },
+        {
+            "kanji": "誕生日",
+            "hiragana": "たんじょうび",
+            "vietnamese": "Ngày sinh / Sinh nhật"
+        },
+        {
+            "kanji": "ブラジル",
+            "hiragana": "ブラジル",
+            "vietnamese": "Brazil"
+        },
+        {
+            "kanji": "～月",
+            "hiragana": "～がつ",
+            "vietnamese": "Tháng ～"
+        },
+        {
+            "kanji": "～日",
+            "hiragana": "～にち／か",
+            "vietnamese": "Ngày (mùng) ～"
+        },
+        {
+            "kanji": "～歳",
+            "hiragana": "～さい",
+            "vietnamese": "～ tuổi"
+        },
+        {
+            "kanji": "いつ",
+            "hiragana": "いつ",
+            "vietnamese": "Lúc nào / Khi nào"
+        },
+        {
+            "kanji": "趣味",
+            "hiragana": "しゅみ",
+            "vietnamese": "Sở thích"
+        },
+        {
+            "kanji": "スポーツ",
+            "hiragana": "スポーツ",
+            "vietnamese": "Thể thao"
+        },
+        {
+            "kanji": "サッカー",
+            "hiragana": "サッカー",
+            "vietnamese": "Bóng đá"
+        },
+        {
+            "kanji": "テニス",
+            "hiragana": "テニス",
+            "vietnamese": "Tennis (Quần vợt)"
+        },
+        {
+            "kanji": "水泳",
+            "hiragana": "すいえい",
+            "vietnamese": "Bơi lội"
+        },
+        {
+            "kanji": "映画",
+            "hiragana": "えいが",
+            "vietnamese": "Phim ảnh"
+        },
+        {
+            "kanji": "音楽",
+            "hiragana": "おんがく",
+            "vietnamese": "Âm nhạc"
+        },
+        {
+            "kanji": "読書",
+            "hiragana": "どくしょ",
+            "vietnamese": "Đọc sách"
+        },
+        {
+            "kanji": "旅行",
+            "hiragana": "りょこう",
+            "vietnamese": "Du lịch"
+        },
+        {
+            "kanji": "料理",
+            "hiragana": "りょうり",
+            "vietnamese": "Nấu ăn / Món ăn"
+        },
+        {
+            "kanji": "何",
+            "hiragana": "なん",
+            "vietnamese": "Cái gì?"
+        },
+        {
+            "kanji": "あ（っ）",
+            "hiragana": "あ（っ）",
+            "vietnamese": "A! / Á!"
+        }
+    ],
+    "unit2": [
+        {
+            "kanji": "ここ／こちら",
+            "hiragana": "ここ／こちら",
+            "vietnamese": "Đây, chỗ này / Phía này"
+        },
+        {
+            "kanji": "そこ／そちら",
+            "hiragana": "そこ／そちら",
+            "vietnamese": "Kia, chỗ đó / Phía đó"
+        },
+        {
+            "kanji": "あそこ／あちら",
+            "hiragana": "あそこ／あちら",
+            "vietnamese": "Đó, chỗ kia / Phía kia"
+        },
+        {
+            "kanji": "インフォメーション",
+            "hiragana": "インフォメーション",
+            "vietnamese": "Quầy thông tin"
+        },
+        {
+            "kanji": "ＡＴＭ",
+            "hiragana": "ＡＴＭ",
+            "vietnamese": "Máy rút tiền tự động"
+        },
+        {
+            "kanji": "エスカレーター",
+            "hiragana": "エスカレーター",
+            "vietnamese": "Thang cuốn"
+        },
+        {
+            "kanji": "エレベーター",
+            "hiragana": "エレベーター",
+            "vietnamese": "Thang máy"
+        },
+        {
+            "kanji": "きつえんじょ",
+            "hiragana": "きつえんじょ",
+            "vietnamese": "Nơi hút thuốc"
+        },
+        {
+            "kanji": "トイレ",
+            "hiragana": "トイレ",
+            "vietnamese": "Nhà vệ sinh"
+        },
+        {
+            "kanji": "レジ",
+            "hiragana": "レジ",
+            "vietnamese": "Quầy thu ngân"
+        },
+        {
+            "kanji": "きっさてん",
+            "hiragana": "きっさてん",
+            "vietnamese": "Quán giải khát"
+        },
+        {
+            "kanji": "スーパー",
+            "hiragana": "スーパー",
+            "vietnamese": "Siêu thị"
+        },
+        {
+            "kanji": "１００円ショップ",
+            "hiragana": "ひゃくえんショップ",
+            "vietnamese": "Cửa hàng 100 Yên"
+        },
+        {
+            "kanji": "レストラン",
+            "hiragana": "レストラン",
+            "vietnamese": "Nhà hàng, quán ăn"
+        },
+        {
+            "kanji": "地下",
+            "hiragana": "ちか",
+            "vietnamese": "Ngầm, dưới lòng đất"
+        },
+        {
+            "kanji": "カメラ",
+            "hiragana": "カメラ",
+            "vietnamese": "Máy ảnh"
+        },
+        {
+            "kanji": "携帯電話",
+            "hiragana": "けいたいでんわ",
+            "vietnamese": "Điện thoại di động"
+        },
+        {
+            "kanji": "電子辞書",
+            "hiragana": "でんしじしょ",
+            "vietnamese": "Kim từ điển"
+        },
+        {
+            "kanji": "パソコン",
+            "hiragana": "パソコン",
+            "vietnamese": "Máy tính cá nhân"
+        },
+        {
+            "kanji": "くつ",
+            "hiragana": "くつ",
+            "vietnamese": "Giầy"
+        },
+        {
+            "kanji": "消しゴム",
+            "hiragana": "けしごむ",
+            "vietnamese": "Tẩy"
+        },
+        {
+            "kanji": "ペン",
+            "hiragana": "ペン",
+            "vietnamese": "Bút"
+        },
+        {
+            "kanji": "トイレットペーパー",
+            "hiragana": "トイレットペーパー",
+            "vietnamese": "Giấy vệ sinh"
+        },
+        {
+            "kanji": "本",
+            "hiragana": "ほん",
+            "vietnamese": "Sách"
+        },
+        {
+            "kanji": "油",
+            "hiragana": "あぶら",
+            "vietnamese": "Dầu"
+        },
+        {
+            "kanji": "ケーキ",
+            "hiragana": "ケーキ",
+            "vietnamese": "Bánh ngọt"
+        },
+        {
+            "kanji": "米",
+            "hiragana": "こめ",
+            "vietnamese": "Gạo"
+        },
+        {
+            "kanji": "卵",
+            "hiragana": "たまご",
+            "vietnamese": "Trứng"
+        },
+        {
+            "kanji": "パン",
+            "hiragana": "パン",
+            "vietnamese": "Bánh mỳ"
+        },
+        {
+            "kanji": "水",
+            "hiragana": "みず",
+            "vietnamese": "Nước"
+        },
+        {
+            "kanji": "店員",
+            "hiragana": "てんいん",
+            "vietnamese": "Nhân viên bán hàng"
+        },
+        {
+            "kanji": "～階",
+            "hiragana": "～かい",
+            "vietnamese": "Tầng ～"
+        },
+        {
+            "kanji": "～屋（例：本屋）",
+            "hiragana": "～や（れい：ほんや）",
+            "vietnamese": "Cửa hàng ～, Hiệu～"
+        },
+        {
+            "kanji": "どこ",
+            "hiragana": "どこ",
+            "vietnamese": "Ở đâu, nơi nào"
+        },
+        {
+            "kanji": "いらっしゃいませ",
+            "hiragana": "いらっしゃいませ",
+            "vietnamese": "Kính chào quý khách"
+        },
+        {
+            "kanji": "（どうも）ありがとうございます",
+            "hiragana": "（どうも）ありがとうございます",
+            "vietnamese": "Xin cám ơn (nhiều)"
+        },
+        {
+            "kanji": "いくらですか",
+            "hiragana": "いくらですか",
+            "vietnamese": "Bao nhiêu tiền?"
+        },
+        {
+            "kanji": "これ",
+            "hiragana": "これ",
+            "vietnamese": "Cái này"
+        },
+        {
+            "kanji": "それ",
+            "hiragana": "それ",
+            "vietnamese": "Cái đó"
+        },
+        {
+            "kanji": "あれ",
+            "hiragana": "あれ",
+            "vietnamese": "Cái kia"
+        },
+        {
+            "kanji": "この～",
+            "hiragana": "この～",
+            "vietnamese": "Cái ～ này"
+        },
+        {
+            "kanji": "その～",
+            "hiragana": "その～",
+            "vietnamese": "Cái ～ đó"
+        },
+        {
+            "kanji": "あの～",
+            "hiragana": "あの～",
+            "vietnamese": "Cái ～ kia"
+        },
+        {
+            "kanji": "かばん",
+            "hiragana": "かばん",
+            "vietnamese": "Cặp, túi xách"
+        },
+        {
+            "kanji": "ズボン",
+            "hiragana": "ズボン",
+            "vietnamese": "Quần dài"
+        },
+        {
+            "kanji": "Tシャツ",
+            "hiragana": "Tシャツ",
+            "vietnamese": "Áo phông"
+        },
+        {
+            "kanji": "時計",
+            "hiragana": "とけい",
+            "vietnamese": "Đồng hồ"
+        },
+        {
+            "kanji": "～円",
+            "hiragana": "～えん",
+            "vietnamese": "～ Yên"
+        },
+        {
+            "kanji": "いくら",
+            "hiragana": "いくら",
+            "vietnamese": "Bao nhiêu tiền"
+        },
+        {
+            "kanji": "じゃ",
+            "hiragana": "じゃ",
+            "vietnamese": "Thế thì / Thôi thì"
+        },
+        {
+            "kanji": "魚",
+            "hiragana": "さかな",
+            "vietnamese": "Cá"
+        },
+        {
+            "kanji": "肉",
+            "hiragana": "にく",
+            "vietnamese": "Thịt"
+        },
+        {
+            "kanji": "牛肉",
+            "hiragana": "ぎゅうにく",
+            "vietnamese": "Thịt bò"
+        },
+        {
+            "kanji": "鶏肉",
+            "hiragana": "とりにく",
+            "vietnamese": "Thịt gà"
+        },
+        {
+            "kanji": "豚肉",
+            "hiragana": "ぶたにく",
+            "vietnamese": "Thịt lợn"
+        },
+        {
+            "kanji": "野菜",
+            "hiragana": "やさい",
+            "vietnamese": "Rau"
+        },
+        {
+            "kanji": "イチゴ",
+            "hiragana": "イチゴ",
+            "vietnamese": "Quả dâu"
+        },
+        {
+            "kanji": "リンゴ",
+            "hiragana": "リンゴ",
+            "vietnamese": "Quả táo"
+        },
+        {
+            "kanji": "料理",
+            "hiragana": "りょうり",
+            "vietnamese": "Món ăn / Nấu ăn"
+        },
+        {
+            "kanji": "カレー",
+            "hiragana": "カレー",
+            "vietnamese": "Món cà-ri"
+        },
+        {
+            "kanji": "スープ",
+            "hiragana": "スープ",
+            "vietnamese": "Canh, súp"
+        },
+        {
+            "kanji": "とんかつ",
+            "hiragana": "とんかつ",
+            "vietnamese": "Món thịt lợn chiên xù"
+        },
+        {
+            "kanji": "ハンバーグ",
+            "hiragana": "ハンバーグ",
+            "vietnamese": "Món thịt băm viên"
+        },
+        {
+            "kanji": "ご飯",
+            "hiragana": "ごはん",
+            "vietnamese": "Cơm"
+        },
+        {
+            "kanji": "ライス",
+            "hiragana": "ライス",
+            "vietnamese": "Cơm, gạo"
+        },
+        {
+            "kanji": "ジュース",
+            "hiragana": "ジュース",
+            "vietnamese": "Nước ngọt, nước trái cây"
+        },
+        {
+            "kanji": "コーヒー",
+            "hiragana": "コーヒー",
+            "vietnamese": "Cà phê"
+        },
+        {
+            "kanji": "紅茶",
+            "hiragana": "こうちゃ",
+            "vietnamese": "Trà đen"
+        },
+        {
+            "kanji": "（お）茶",
+            "hiragana": "（お）ちゃ",
+            "vietnamese": "Trà, nước chè"
+        },
+        {
+            "kanji": "ビール",
+            "hiragana": "ビール",
+            "vietnamese": "Bia"
+        },
+        {
+            "kanji": "ワイン",
+            "hiragana": "ワイン",
+            "vietnamese": "Rượu vang"
+        },
+        {
+            "kanji": "インド",
+            "hiragana": "インド",
+            "vietnamese": "Ấn Độ"
+        },
+        {
+            "kanji": "ドイツ",
+            "hiragana": "ドイツ",
+            "vietnamese": "Đức"
+        },
+        {
+            "kanji": "フランス",
+            "hiragana": "フランス",
+            "vietnamese": "Pháp"
+        },
+        {
+            "kanji": "財布",
+            "hiragana": "さいふ",
+            "vietnamese": "Ví tiền"
+        },
+        {
+            "kanji": "英語",
+            "hiragana": "えいご",
+            "vietnamese": "Tiếng Anh"
+        },
+        {
+            "kanji": "～語",
+            "hiragana": "～ご",
+            "vietnamese": "Tiếng (nước nào)"
+        },
+        {
+            "kanji": "～つ",
+            "hiragana": "～つ",
+            "vietnamese": "～ cái / ～ chiếc"
+        },
+        {
+            "kanji": "だれ",
+            "hiragana": "だれ",
+            "vietnamese": "Ai"
+        },
+        {
+            "kanji": "注文をお願いします",
+            "hiragana": "ちゅうもんをおねがいします",
+            "vietnamese": "Cho tôi gọi đồ"
+        },
+        {
+            "kanji": "どうぞ",
+            "hiragana": "どうぞ",
+            "vietnamese": "Xin mời"
+        }
+    ],
+    "unit3": [
+        {
+            "kanji": "今",
+            "hiragana": "いま",
+            "vietnamese": "Bây giờ"
+        },
+        {
+            "kanji": "午前",
+            "hiragana": "ごぜん",
+            "vietnamese": "Buổi sáng / AM"
+        },
+        {
+            "kanji": "午後",
+            "hiragana": "ごご",
+            "vietnamese": "Buổi chiều / PM"
+        },
+        {
+            "kanji": "昼",
+            "hiragana": "ひる",
+            "vietnamese": "Buổi trưa"
+        },
+        {
+            "kanji": "銀行",
+            "hiragana": "ぎんこう",
+            "vietnamese": "Ngân hàng"
+        },
+        {
+            "kanji": "体育館",
+            "hiragana": "たいいくかん",
+            "vietnamese": "Nhà tập thể dục"
+        },
+        {
+            "kanji": "図書館",
+            "hiragana": "としょかん",
+            "vietnamese": "Thư viện"
+        },
+        {
+            "kanji": "病院",
+            "hiragana": "びょういん",
+            "vietnamese": "Bệnh viện"
+        },
+        {
+            "kanji": "郵便局",
+            "hiragana": "ゆうびんきょく",
+            "vietnamese": "Bưu điện"
+        },
+        {
+            "kanji": "授業",
+            "hiragana": "じゅぎょう",
+            "vietnamese": "Giờ học"
+        },
+        {
+            "kanji": "テスト",
+            "hiragana": "テスト",
+            "vietnamese": "Bài kiểm tra"
+        },
+        {
+            "kanji": "休み",
+            "hiragana": "やすみ",
+            "vietnamese": "Nghỉ / Ngày nghỉ"
+        },
+        {
+            "kanji": "時間",
+            "hiragana": "じかん",
+            "vietnamese": "Thời gian / Giờ giấc"
+        },
+        {
+            "kanji": "～時",
+            "hiragana": "～じ",
+            "vietnamese": "～ giờ"
+        },
+        {
+            "kanji": "～分",
+            "hiragana": "～ふん",
+            "vietnamese": "～ phút"
+        },
+        {
+            "kanji": "～時半",
+            "hiragana": "～じはん",
+            "vietnamese": "～ giờ rưỡi"
+        },
+        {
+            "kanji": "～曜日",
+            "hiragana": "～ようび",
+            "vietnamese": "Thứ ～"
+        },
+        {
+            "kanji": "スケジュール",
+            "hiragana": "スケジュール",
+            "vietnamese": "Kế hoạch, lịch"
+        },
+        {
+            "kanji": "アルバイト",
+            "hiragana": "アルバイト",
+            "vietnamese": "Việc làm thêm"
+        },
+        {
+            "kanji": "スキー",
+            "hiragana": "スキー",
+            "vietnamese": "Trượt tuyết"
+        },
+        {
+            "kanji": "パーティー",
+            "hiragana": "パーティー",
+            "vietnamese": "Bữa tiệc"
+        },
+        {
+            "kanji": "バーベキュー",
+            "hiragana": "バーベキュー",
+            "vietnamese": "Tiệc nướng ngoài trời"
+        },
+        {
+            "kanji": "花火",
+            "hiragana": "はなび",
+            "vietnamese": "Pháo hoa"
+        },
+        {
+            "kanji": "（お）花見",
+            "hiragana": "（お）はなみ",
+            "vietnamese": "Ngắm hoa (anh đào)"
+        },
+        {
+            "kanji": "ホームステイ",
+            "hiragana": "ホームステイ",
+            "vietnamese": "Ở cùng gia đình bản địa"
+        },
+        {
+            "kanji": "（お）祭り",
+            "hiragana": "（お）まつり",
+            "vietnamese": "Lễ hội"
+        },
+        {
+            "kanji": "海",
+            "hiragana": "うみ",
+            "vietnamese": "Biển"
+        },
+        {
+            "kanji": "公園",
+            "hiragana": "こうえん",
+            "vietnamese": "Công viên"
+        },
+        {
+            "kanji": "桜",
+            "hiragana": "さくら",
+            "vietnamese": "Hoa anh đào"
+        },
+        {
+            "kanji": "（お）酒",
+            "hiragana": "（お）さけ",
+            "vietnamese": "Rượu (Nhật)"
+        },
+        {
+            "kanji": "（お）すし",
+            "hiragana": "（お）すし",
+            "vietnamese": "Sushi"
+        },
+        {
+            "kanji": "バス",
+            "hiragana": "バス",
+            "vietnamese": "Xe buýt"
+        },
+        {
+            "kanji": "（お）弁当",
+            "hiragana": "（お）べんとう",
+            "vietnamese": "Cơm hộp"
+        },
+        {
+            "kanji": "留学生",
+            "hiragana": "りゅうがくせい",
+            "vietnamese": "Du học sinh"
+        },
+        {
+            "kanji": "１年",
+            "hiragana": "いちねん",
+            "vietnamese": "1 năm"
+        },
+        {
+            "kanji": "春",
+            "hiragana": "はる",
+            "vietnamese": "Mùa xuân"
+        },
+        {
+            "kanji": "夏",
+            "hiragana": "なつ",
+            "vietnamese": "Mùa hè"
+        },
+        {
+            "kanji": "秋",
+            "hiragana": "あき",
+            "vietnamese": "Mùa thu"
+        },
+        {
+            "kanji": "冬",
+            "hiragana": "ふゆ",
+            "vietnamese": "Mùa đông"
+        },
+        {
+            "kanji": "ゴールデンウイーク",
+            "hiragana": "ゴールデンウイーク",
+            "vietnamese": "Tuần lễ vàng"
+        },
+        {
+            "kanji": "行きます",
+            "hiragana": "いきます",
+            "vietnamese": "Đi"
+        },
+        {
+            "kanji": "帰ります",
+            "hiragana": "かえります",
+            "vietnamese": "Về, trở về"
+        },
+        {
+            "kanji": "飲みます",
+            "hiragana": "のみます",
+            "vietnamese": "Uống"
+        },
+        {
+            "kanji": "食べます",
+            "hiragana": "たべます",
+            "vietnamese": "Ăn"
+        },
+        {
+            "kanji": "見ます",
+            "hiragana": "みます",
+            "vietnamese": "Xem, nhìn"
+        },
+        {
+            "kanji": "します",
+            "hiragana": "します",
+            "vietnamese": "Làm, chơi"
+        },
+        {
+            "kanji": "朝",
+            "hiragana": "あさ",
+            "vietnamese": "Buổi sáng"
+        },
+        {
+            "kanji": "夜",
+            "hiragana": "よる",
+            "vietnamese": "Buổi tối, đêm"
+        },
+        {
+            "kanji": "毎日",
+            "hiragana": "まいにち",
+            "vietnamese": "Hàng ngày"
+        },
+        {
+            "kanji": "毎朝",
+            "hiragana": "まいあさ",
+            "vietnamese": "Mỗi sáng"
+        },
+        {
+            "kanji": "毎晩",
+            "hiragana": "まいばん",
+            "vietnamese": "Mỗi tối"
+        },
+        {
+            "kanji": "朝ご飯",
+            "hiragana": "あさごはん",
+            "vietnamese": "Bữa sáng"
+        },
+        {
+            "kanji": "昼ごはん",
+            "hiragana": "ひるごはん",
+            "vietnamese": "Bữa trưa"
+        },
+        {
+            "kanji": "家",
+            "hiragana": "うち",
+            "vietnamese": "Nhà"
+        },
+        {
+            "kanji": "会社",
+            "hiragana": "かいしゃ",
+            "vietnamese": "Công ty"
+        },
+        {
+            "kanji": "学校",
+            "hiragana": "がっこう",
+            "vietnamese": "Trường học"
+        },
+        {
+            "kanji": "コンビニ",
+            "hiragana": "コンビニ",
+            "vietnamese": "Cửa hàng tiện lợi"
+        },
+        {
+            "kanji": "牛乳",
+            "hiragana": "ぎゅうにゅう",
+            "vietnamese": "Sữa bò"
+        },
+        {
+            "kanji": "果物",
+            "hiragana": "くだもの",
+            "vietnamese": "Hoa quả"
+        },
+        {
+            "kanji": "サラダ",
+            "hiragana": "サラダ",
+            "vietnamese": "Salad"
+        },
+        {
+            "kanji": "チーズ",
+            "hiragana": "チーズ",
+            "vietnamese": "Phô mai"
+        },
+        {
+            "kanji": "インターネット",
+            "hiragana": "インターネット",
+            "vietnamese": "Internet"
+        },
+        {
+            "kanji": "新聞",
+            "hiragana": "しんぶん",
+            "vietnamese": "Báo"
+        },
+        {
+            "kanji": "テレビ",
+            "hiragana": "テレビ",
+            "vietnamese": "Tivi"
+        },
+        {
+            "kanji": "CD",
+            "hiragana": "シーディー",
+            "vietnamese": "CD"
+        },
+        {
+            "kanji": "DVD",
+            "hiragana": "ディーブイディー",
+            "vietnamese": "DVD"
+        },
+        {
+            "kanji": "何も",
+            "hiragana": "なにも",
+            "vietnamese": "Cái gì cũng …"
+        },
+        {
+            "kanji": "どこも",
+            "hiragana": "どこも",
+            "vietnamese": "Đâu cũng …"
+        },
+        {
+            "kanji": "買います",
+            "hiragana": "かいます",
+            "vietnamese": "Mua"
+        },
+        {
+            "kanji": "聞きます",
+            "hiragana": "ききます",
+            "vietnamese": "Nghe"
+        },
+        {
+            "kanji": "働きます",
+            "hiragana": "はたらきます",
+            "vietnamese": "Làm việc"
+        },
+        {
+            "kanji": "読みます",
+            "hiragana": "よみます",
+            "vietnamese": "Đọc"
+        },
+        {
+            "kanji": "起きます",
+            "hiragana": "おきます",
+            "vietnamese": "Thức dậy"
+        },
+        {
+            "kanji": "寝ます",
+            "hiragana": "ねます",
+            "vietnamese": "Ngủ"
+        },
+        {
+            "kanji": "勉強します",
+            "hiragana": "べんきょうします",
+            "vietnamese": "Học"
+        },
+        {
+            "kanji": "来ます",
+            "hiragana": "きます",
+            "vietnamese": "Đến"
+        }
+    ]
+}

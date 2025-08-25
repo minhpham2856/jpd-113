@@ -1,0 +1,438 @@
+body {
+    font-family: "Segoe UI", Tahoma, sans-serif;
+    background: #ffd6dd;
+    color: #444;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 80%;
+    margin: 0 auto;
+    background: #ffffff;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+header {
+    background: #ffb4dc;
+    color: #000;
+    padding: 1.2rem 2rem;
+    border-bottom: 4px solid #aaa;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.8rem;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.navbar {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 0.7rem;
+    padding: 1% 0;
+    margin-bottom: 0;
+}
+
+.navbar li {
+    display: inline;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #444;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    font-weight: bold;
+    background: #eee;
+    transition: 0.3s ease;
+}
+
+.navbar a:hover,
+.navbar a.active {
+    background: #ff6dbb;
+    color: #222;
+}
+
+main {
+    flex: 1;
+    padding: 1rem 2rem;
+}
+
+.intro {
+    background: #eee;
+    padding: 1.5rem;
+    margin-top: 2rem;
+    border-radius: 10px;
+}
+
+.intro h2 {
+    margin-top: 0;
+    color: #ff6dbb;
+    text-shadow: 0 0 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #ffb4dc;
+    color: #333;
+    font-size: 0.9rem;
+    border-top: 4px solid #aaa;
+}
+
+footer * {
+    font-size: 1.2rem;
+    color: #000;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+footer a:hover {
+    color: #e00;
+}
+
+@media (max-width: 1100px) {
+    .container {
+        max-width: 100%;
+        border-radius: 0;
+    }
+}
+
+/* alphabet */
+
+.alphabet-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0 2rem;
+    font-size: 1.2rem;
+    text-align: center;
+    background: #fff;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.alphabet-table th {
+    background: #ffb4dc;
+    color: #333;
+    padding: 0.6rem;
+}
+
+.alphabet-table td {
+    border: 1px solid #FFB3C6;
+    padding: 0.6rem;
+}
+
+.alphabet-table tr:nth-child(even) td {
+    background: #FFFCF9;
+    /* very light pastel alternate row */
+}
+
+/* vocab */
+#vocab-container {
+    padding: 1rem;
+}
+
+.unit-block {
+    margin-bottom: 2rem;
+}
+
+.unit-header {
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin: 1rem 0;
+    text-align: center;
+    color: #423B0B;
+}
+
+.vocab-columns {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
+
+.vocab-card {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    padding: 0.8rem;
+    text-align: center;
+    transition: transform 0.15s ease;
+}
+
+.vocab-card:hover {
+    transform: translateY(-3px);
+}
+
+.vocab-card .kanji {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #2c2c2c;
+}
+
+.vocab-card .hiragana {
+    font-size: 1rem;
+    color: #7BA098;
+    margin: 0.3rem 0;
+}
+
+.vocab-card .vietnamese {
+    font-size: 0.9rem;
+    color: #474935;
+}
+
+.vocab-row {
+    display: flex;
+    gap: 1rem;
+    justify-content: space-between;
+}
+
+.vocab-col {
+    flex: 1;
+}
+
+.vocab-col table {
+    width: 100%;
+    font-size: 1rem;
+}
+
+/* grammar */
+.grammar-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 1.5rem;
+}
+
+.grammar-table {
+    flex: 1;
+    min-width: 300px;
+    max-width: 32%;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+}
+
+.grammar-table h3 {
+    text-align: center;
+    margin-bottom: 0.5rem;
+    color: #7BA098;
+}
+
+.grammar-table table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+}
+
+.grammar-table th {
+    background: #C7CEEA;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+}
+
+.grammar-table td {
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+.grammar-table tr:nth-child(even) td {
+    background: #FFFCF9;
+}
+
+.tab-buttons {
+    margin: 1rem 0;
+    display: flex;
+    gap: 1rem;
+}
+
+.tab-btn {
+    padding: 0.5rem 1.2rem;
+    border-radius: 20px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    background: #C7CEEA;
+    color: #444;
+    transition: all 0.3s ease;
+}
+
+.tab-btn.active,
+.tab-btn:hover {
+    background: #B5EAD7;
+    color: #222;
+}
+
+.expand-collapse-btns button {
+    padding: 0.4rem 1rem;
+    margin-right: 0.5rem;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    background: #FFB3C6;
+    color: #222;
+    transition: all 0.3s ease;
+}
+
+.expand-collapse-btns button:hover {
+    background: #FF9BB0;
+}
+
+.alphabet-table caption {
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding: 0.8rem;
+    background: #FFE0E9;
+    color: #423B0B;
+    border-radius: 8px 8px 0 0;
+}
+
+.collapsible-content {
+    display: flex;
+    flex-direction: column;
+}
+
+
+@media (max-width: 900px) {
+    .vocab-row {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 768px) {
+
+    header,
+    main,
+    footer {
+        padding: 1rem;
+    }
+
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .navbar a {
+        display: block;
+        width: 100%;
+    }
+
+    .vocab-columns {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* background */
+.sakura-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    overflow: hidden;
+    z-index: 0;
+}
+
+.sakura {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    background: #ffc0cb;
+    box-shadow: 0 0 10px #ffc0cb;
+    border-radius: 50%;
+    opacity: 0.9;
+    animation: fall linear infinite;
+    top: -10px;
+}
+
+@keyframes fall {
+    0% {
+        transform: translate(0px, -10px) rotate(0deg);
+    }
+
+    25% {
+        transform: translate(10px, 25vh) rotate(90deg);
+    }
+
+    50% {
+        transform: translate(-10px, 50vh) rotate(180deg);
+    }
+
+    75% {
+        transform: translate(15px, 75vh) rotate(270deg);
+    }
+
+    100% {
+        transform: translate(-5px, 110vh) rotate(360deg);
+    }
+}
+
+.sakura:nth-child(1) {
+    left: 5%;
+    animation-duration: 7s;
+    animation-delay: 0s;
+}
+
+.sakura:nth-child(2) {
+    left: 15%;
+    animation-duration: 6s;
+    animation-delay: 1s;
+}
+
+.sakura:nth-child(3) {
+    left: 25%;
+    animation-duration: 8s;
+    animation-delay: 2s;
+}
+
+.sakura:nth-child(4) {
+    left: 35%;
+    animation-duration: 7.5s;
+    animation-delay: 1.5s;
+}
+
+.sakura:nth-child(5) {
+    left: 45%;
+    animation-duration: 6.5s;
+    animation-delay: 0.5s;
+}
+
+.sakura:nth-child(6) {
+    left: 55%;
+    animation-duration: 7.2s;
+    animation-delay: 2.5s;
+}
+
+.sakura:nth-child(7) {
+    left: 65%;
+    animation-duration: 8.1s;
+    animation-delay: 3s;
+}
+
+.sakura:nth-child(8) {
+    left: 75%;
+    animation-duration: 6.8s;
+    animation-delay: 1.2s;
+}
+
+.sakura:nth-child(9) {
+    left: 85%;
+    animation-duration: 7.6s;
+    animation-delay: 2.8s;
+}
+
+.sakura:nth-child(10) {
+    left: 95%;
+    animation-duration: 7s;
+    animation-delay: 0.7s;
+}
