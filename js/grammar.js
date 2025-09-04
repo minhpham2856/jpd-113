@@ -109,7 +109,6 @@ async function loadGrammar() {
         caption.style.fontSize = "1.05rem";
         caption.style.background = "#FFE0E9";
         caption.style.padding = "1rem";
-        caption.style.borderRadius = "6px";
         caption.style.marginTop = "2rem";
         container.appendChild(caption);
 

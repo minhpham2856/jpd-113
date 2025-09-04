@@ -1,26 +1,25 @@
-.kana-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 1rem 0 2rem;
-    font-size: 1.2rem;
-    text-align: center;
-    background: #fff;
-    box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
-    overflow: hidden;
+main {
+    display: flex;
+    justify-content: space-evenly;
 }
 
-.kana-table th {
-    background: #ffb4dc;
-    color: #333;
-    padding: 0.6rem;
+section {
+    width: 40%;
 }
 
-.kana-table td {
-    border: 1px solid #FFB3C6;
-    padding: 0.6rem;
+tr:nth-child(even) td {
+    background: var(--color-white);
 }
 
-.kana-table tr:nth-child(even) td {
-    background: #FFFCF9;
+tr:hover {
+    background-color: #aaa;
+}
+
+@media screen and (max-width: 900px) {
+    main {
+        flex-direction: column;
+    }
+    section {
+        width: 100%;
+    }
 }

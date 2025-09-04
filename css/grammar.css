@@ -1,3 +1,4 @@
+/* grammar */
 .grammar-grid {
     display: flex;
     flex-wrap: wrap;
@@ -11,8 +12,6 @@
     min-width: 300px;
     max-width: 32%;
     background: #fff;
-    border-radius: 10px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
     padding: 1rem;
 }
 
@@ -52,7 +51,6 @@
 
 .tab-btn {
     padding: 0.5rem 1.2rem;
-    border-radius: 20px;
     border: none;
     font-weight: bold;
     cursor: pointer;
@@ -70,7 +68,6 @@
 .expand-collapse-btns button {
     padding: 0.4rem 1rem;
     margin-right: 0.5rem;
-    border-radius: 10px;
     border: none;
     font-weight: bold;
     cursor: pointer;
@@ -83,17 +80,15 @@
     background: #FF9BB0;
 }
 
-.kana-table caption {
+table caption {
     font-weight: bold;
     font-size: 1.2rem;
     padding: 0.8rem;
     background: #FFE0E9;
     color: #423B0B;
-    border-radius: 8px 8px 0 0;
 }
 
 .collapsible-content {
     display: flex;
     flex-direction: column;
 }
-

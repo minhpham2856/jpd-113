@@ -1,0 +1,49 @@
+:root {
+    --color-black: #000;
+    --color-white: #fff;
+    --color-grey: #eee;
+}
+
+#vocab-container {
+    padding: 1rem;
+}
+
+.unit-block {
+    margin-bottom: 2rem;
+}
+
+.unit-header {
+    font-weight: bold;
+    margin: 0 0 1rem;
+    text-align: center;
+    color: var(--color-black);
+}
+
+tr:nth-child(even) td {
+    background: var(--color-white);
+}
+
+tr:hover {
+    background-color: #aaa;
+}
+
+.vocab-row {
+    display: flex;
+    gap: 1rem;
+    justify-content: space-around;
+}
+
+.vocab-col {
+    flex: 1;
+}
+
+.vocab-col table {
+    width: 100%;
+    font-size: 1rem;
+}
+
+@media (max-width: 900px) {
+    .vocab-row {
+        flex-direction: column;
+    }
+}

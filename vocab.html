@@ -6,27 +6,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JPD113 - Vocabulary</title>
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/vocab.css">
 </head>
 
 <body>
     <div class="container">
         <header>
-            <h1>JPD113 - Vocabulary</h1>
-            <ul class="navbar">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="kana.html">Kana</a></li>
-                <li><a href="vocab.html" class="active">Vocabulary</a></li>
-                <li><a href="grammar.html">Grammar</a></li>
-                <li><a href="tests.html">Tests</a></li>
-            </ul>
+            <h1>JPD113</h1>
+            <nav>
+                <ul class="navbar">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="kana.html">Kana</a></li>
+                    <li><a href="vocab.html" class="active">Vocabulary</a></li>
+                    <li><a href="grammar.html">Grammar</a></li>
+                    <li><a href="tests.html">Tests</a></li>
+                </ul>
+                <div class="burger">&#9776;</div>
+            </nav>
         </header>
+
 
         <main>
             <div id="vocab-tables" class="vocab-row">
-                <!-- js fills -->
                 <div class="vocab-col">
                     <h2 class="unit-header">Unit 1</h2>
-                    <table class="kana-table" id="unit1-table">
+                    <table id="unit1-table">
                         <thead>
                             <tr>
                                 <th>Kanji</th>
@@ -40,7 +44,7 @@
 
                 <div class="vocab-col">
                     <h2 class="unit-header">Unit 2</h2>
-                    <table class="kana-table" id="unit2-table">
+                    <table id="unit2-table">
                         <thead>
                             <tr>
                                 <th>Kanji</th>
@@ -54,7 +58,7 @@
 
                 <div class="vocab-col">
                     <h2 class="unit-header">Unit 3</h2>
-                    <table class="kana-table" id="unit3-table">
+                    <table id="unit3-table">
                         <thead>
                             <tr>
                                 <th>Kanji</th>
@@ -73,7 +77,11 @@
 ">日明のギート</a></p>
         </footer>
     </div>
-
+    <script>
+        document.querySelector(".burger").addEventListener("click", () => {
+            document.querySelector(".navbar").classList.toggle("show");
+        });
+    </script>
     <script src="js/vocab.js"></script>
 </body>
 

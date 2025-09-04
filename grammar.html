@@ -1,24 +1,28 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JPD113 - Grammar</title>
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/grammar.css">
 </head>
 
 <body>
     <div class="container">
         <header>
-            <h1>JPD113 - Grammar</h1>
-            <ul class="navbar">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="kana.html">Kana</a></li>
-                <li><a href="vocab.html">Vocabulary</a></li>
-                <li><a href="grammar.html" class="active">Grammar</a></li>
-                <li><a href="tests.html">Tests</a></li>
-            </ul>
+            <h1>JPD113</h1>
+            <nav>
+                <ul class="navbar">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="kana.html">Kana</a></li>
+                    <li><a href="vocab.html">Vocabulary</a></li>
+                    <li><a href="grammar.html"  class="active">Grammar</a></li>
+                    <li><a href="tests.html">Tests</a></li>
+                </ul>
+                <div class="burger">&#9776;</div>
+            </nav>
         </header>
         <main>
             <div class="tab-buttons">
@@ -40,7 +44,11 @@
 ">日明のギート</a></p>
         </footer>
     </div>
-
+    <script>
+        document.querySelector(".burger").addEventListener("click", () => {
+            document.querySelector(".navbar").classList.toggle("show");
+        });
+    </script>
     <script src="js/grammar.js"></script>
 </body>
 
