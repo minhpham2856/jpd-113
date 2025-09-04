@@ -1,0 +1,99 @@
+.grammar-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 1.5rem;
+}
+
+.grammar-table {
+    flex: 1;
+    min-width: 300px;
+    max-width: 32%;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+}
+
+.grammar-table h3 {
+    text-align: center;
+    margin-bottom: 0.5rem;
+    color: #7BA098;
+}
+
+.grammar-table table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+}
+
+.grammar-table th {
+    background: #C7CEEA;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+}
+
+.grammar-table td {
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+.grammar-table tr:nth-child(even) td {
+    background: #FFFCF9;
+}
+
+.tab-buttons {
+    margin: 1rem 0;
+    display: flex;
+    gap: 1rem;
+}
+
+.tab-btn {
+    padding: 0.5rem 1.2rem;
+    border-radius: 20px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    background: #C7CEEA;
+    color: #444;
+    transition: all 0.3s ease;
+}
+
+.tab-btn.active,
+.tab-btn:hover {
+    background: #B5EAD7;
+    color: #222;
+}
+
+.expand-collapse-btns button {
+    padding: 0.4rem 1rem;
+    margin-right: 0.5rem;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    background: #FFB3C6;
+    color: #222;
+    transition: all 0.3s ease;
+}
+
+.expand-collapse-btns button:hover {
+    background: #FF9BB0;
+}
+
+.kana-table caption {
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding: 0.8rem;
+    background: #FFE0E9;
+    color: #423B0B;
+    border-radius: 8px 8px 0 0;
+}
+
+.collapsible-content {
+    display: flex;
+    flex-direction: column;
+}
+

@@ -15,7 +15,7 @@ function loadUnit(unitId, vocabList) {
         const row = document.createElement("tr");
         row.innerHTML = `
       <td>${word.kanji}</td>
-      <td>${word.hiragana}</td>
+      <td>${word.kana}</td>
       <td>${word.vietnamese}</td>
     `;
         tbody.appendChild(row);

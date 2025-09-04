@@ -1,0 +1,26 @@
+.kana-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0 2rem;
+    font-size: 1.2rem;
+    text-align: center;
+    background: #fff;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.kana-table th {
+    background: #ffb4dc;
+    color: #333;
+    padding: 0.6rem;
+}
+
+.kana-table td {
+    border: 1px solid #FFB3C6;
+    padding: 0.6rem;
+}
+
+.kana-table tr:nth-child(even) td {
+    background: #FFFCF9;
+}

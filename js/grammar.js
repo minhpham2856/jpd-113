@@ -60,7 +60,7 @@ async function loadCounting() {
 
     data.categories.forEach(cat => {
         const table = document.createElement("table");
-        table.classList.add("alphabet-table");
+        table.classList.add("kana-table");
 
         const caption = document.createElement("caption");
         caption.textContent = cat.title;
