@@ -1004,5 +1004,640 @@
             "kana": "きます",
             "vietnamese": "Đến"
         }
-    ]
+    ],
+    "types": {
+        "people": [
+            {
+                "kanji": "私",
+                "kana": "わたし",
+                "vietnamese": "Tôi"
+            },
+            {
+                "kanji": "学生",
+                "kana": "がくせい",
+                "vietnamese": "Học sinh"
+            },
+            {
+                "kanji": "先生",
+                "kana": "せんせい",
+                "vietnamese": "Thầy/ Cô giáo"
+            },
+            {
+                "kanji": "教師",
+                "kana": "きょうし",
+                "vietnamese": "Giáo viên"
+            },
+            {
+                "kanji": "会社員",
+                "kana": "かいしゃいん",
+                "vietnamese": "Nhân viên văn phòng"
+            },
+            {
+                "kanji": "社員",
+                "kana": "しゃいん",
+                "vietnamese": "Nhân viên"
+            },
+            {
+                "kanji": "店員",
+                "kana": "てんいん",
+                "vietnamese": "Nhân viên bán hàng"
+            },
+            {
+                "kanji": "留学生",
+                "kana": "りゅうがくせい",
+                "vietnamese": "Du học sinh"
+            },
+            {
+                "kanji": "仕事",
+                "kana": "しごと",
+                "vietnamese": "Công việc"
+            }
+        ],
+        "countries": [
+            {
+                "kanji": "日本",
+                "kana": "にほん",
+                "vietnamese": "Nhật Bản"
+            },
+            {
+                "kanji": "",
+                "kana": "アメリカ",
+                "vietnamese": "Mỹ"
+            },
+            {
+                "kanji": "",
+                "kana": "イタリア",
+                "vietnamese": "Ý"
+            },
+            {
+                "kanji": "",
+                "kana": "オーストラリア",
+                "vietnamese": "Úc"
+            },
+            {
+                "kanji": "韓国",
+                "kana": "かんこく",
+                "vietnamese": "Hàn Quốc"
+            },
+            {
+                "kanji": "",
+                "kana": "タイ",
+                "vietnamese": "Thái Lan"
+            },
+            {
+                "kanji": "中国",
+                "kana": "ちゅうごく",
+                "vietnamese": "Trung Quốc"
+            },
+            {
+                "kanji": "",
+                "kana": "ロシア",
+                "vietnamese": "Nga"
+            },
+            {
+                "kanji": "",
+                "kana": "ブラジル",
+                "vietnamese": "Brazil"
+            },
+            {
+                "kanji": "",
+                "kana": "インド",
+                "vietnamese": "Ấn Độ"
+            },
+            {
+                "kanji": "",
+                "kana": "ドイツ",
+                "vietnamese": "Đức"
+            },
+            {
+                "kanji": "",
+                "kana": "フランス",
+                "vietnamese": "Pháp"
+            },
+            {
+                "kanji": "～人",
+                "kana": "～じん",
+                "vietnamese": "Người (nước nào)"
+            }
+        ],
+        "places": [
+            {
+                "kanji": "高校",
+                "kana": "こうこう",
+                "vietnamese": "Trường cấp 3"
+            },
+            {
+                "kanji": "大学",
+                "kana": "だいがく",
+                "vietnamese": "Trường đại học"
+            },
+            {
+                "kanji": "日本語学校",
+                "kana": "にほんごがっこう",
+                "vietnamese": "Trường tiếng Nhật"
+            },
+            {
+                "kanji": "喫煙所",
+                "kana": "きつえんじょ",
+                "vietnamese": "Nơi hút thuốc"
+            },
+            {
+                "kanji": "",
+                "kana": "トイレ",
+                "vietnamese": "Nhà vệ sinh"
+            },
+            {
+                "kanji": "",
+                "kana": "レジ",
+                "vietnamese": "Quầy thu ngân"
+            },
+            {
+                "kanji": "喫茶店",
+                "kana": "きっさてん",
+                "vietnamese": "Quán giải khát"
+            },
+            {
+                "kanji": "",
+                "kana": "スーパー",
+                "vietnamese": "Siêu thị"
+            },
+            {
+                "kanji": "100円ショップ",
+                "kana": "",
+                "vietnamese": "Cửa hàng 100 Yên"
+            },
+            {
+                "kanji": "",
+                "kana": "レストラン",
+                "vietnamese": "Nhà hàng, quán ăn"
+            },
+            {
+                "kanji": "地下",
+                "kana": "ちか",
+                "vietnamese": "Dưới lòng đất"
+            },
+            {
+                "kanji": "銀行",
+                "kana": "ぎんこう",
+                "vietnamese": "Ngân hàng"
+            },
+            {
+                "kanji": "体育館",
+                "kana": "たいいくかん",
+                "vietnamese": "Nhà thể dục"
+            },
+            {
+                "kanji": "図書館",
+                "kana": "としょかん",
+                "vietnamese": "Thư viện"
+            },
+            {
+                "kanji": "病院",
+                "kana": "びょういん",
+                "vietnamese": "Bệnh viện"
+            },
+            {
+                "kanji": "郵便局",
+                "kana": "ゆうびんきょく",
+                "vietnamese": "Bưu điện"
+            },
+            {
+                "kanji": "公園",
+                "kana": "こうえん",
+                "vietnamese": "Công viên"
+            },
+            {
+                "kanji": "会社",
+                "kana": "かいしゃ",
+                "vietnamese": "Công ty"
+            },
+            {
+                "kanji": "学校",
+                "kana": "がっこう",
+                "vietnamese": "Trường học"
+            },
+            {
+                "kanji": "",
+                "kana": "コンビニ",
+                "vietnamese": "Cửa hàng tiện lợi"
+            },
+            {
+                "kanji": "家",
+                "kana": "うち",
+                "vietnamese": "Nhà"
+            }
+        ],
+        "foods": [
+            {
+                "kanji": "パン",
+                "kana": "パン",
+                "vietnamese": "Bánh mì"
+            },
+            {
+                "kanji": "",
+                "kana": "サンドイッチ",
+                "vietnamese": "Bánh mì kẹp"
+            },
+            {
+                "kanji": "",
+                "kana": "ケーキ",
+                "vietnamese": "Bánh ngọt"
+            },
+            {
+                "kanji": "弁当",
+                "kana": "べんとう",
+                "vietnamese": "Cơm hộp"
+            },
+            {
+                "kanji": "",
+                "kana": "すし",
+                "vietnamese": "Sushi"
+            },
+            {
+                "kanji": "果物",
+                "kana": "くだもの",
+                "vietnamese": "Hoa quả"
+            },
+            {
+                "kanji": "",
+                "kana": "サラダ",
+                "vietnamese": "Salad"
+            },
+            {
+                "kanji": "",
+                "kana": "チーズ",
+                "vietnamese": "Phô mai"
+            },
+            {
+                "kanji": "",
+                "kana": "コーヒー",
+                "vietnamese": "Cà phê"
+            },
+            {
+                "kanji": "",
+                "kana": "コーラ",
+                "vietnamese": "Coca"
+            },
+            {
+                "kanji": "酒",
+                "kana": "さけ",
+                "vietnamese": "Rượu Sake"
+            },
+            {
+                "kanji": "牛乳",
+                "kana": "ぎゅうにゅう",
+                "vietnamese": "Sữa bò"
+            }
+        ],
+        "objects": [
+            {
+                "kanji": "傘",
+                "kana": "かさ",
+                "vietnamese": "Cái ô"
+            },
+            {
+                "kanji": "鉛筆",
+                "kana": "えんぴつ",
+                "vietnamese": "Bút chì"
+            },
+            {
+                "kanji": "ノート",
+                "kana": "ノート",
+                "vietnamese": "Vở"
+            },
+            {
+                "kanji": "本",
+                "kana": "ほん",
+                "vietnamese": "Sách"
+            },
+            {
+                "kanji": "辞書",
+                "kana": "じしょ",
+                "vietnamese": "Từ điển"
+            },
+            {
+                "kanji": "雑誌",
+                "kana": "ざっし",
+                "vietnamese": "Tạp chí"
+            },
+            {
+                "kanji": "新聞",
+                "kana": "しんぶん",
+                "vietnamese": "Báo"
+            },
+            {
+                "kanji": "",
+                "kana": "テレビ",
+                "vietnamese": "Tivi"
+            },
+            {
+                "kanji": "",
+                "kana": "スマホ",
+                "vietnamese": "Điện thoại"
+            },
+            {
+                "kanji": "",
+                "kana": "ボールペン",
+                "vietnamese": "Bút bi"
+            },
+            {
+                "kanji": "時計",
+                "kana": "とけい",
+                "vietnamese": "Đồng hồ"
+            },
+            {
+                "kanji": "机",
+                "kana": "つくえ",
+                "vietnamese": "Bàn"
+            },
+            {
+                "kanji": "椅子",
+                "kana": "いす",
+                "vietnamese": "Ghế"
+            },
+            {
+                "kanji": "部屋",
+                "kana": "へや",
+                "vietnamese": "Phòng"
+            }
+        ],
+        "time": [
+            {
+                "kanji": "今",
+                "kana": "いま",
+                "vietnamese": "Bây giờ"
+            },
+            {
+                "kanji": "午前",
+                "kana": "ごぜん",
+                "vietnamese": "AM"
+            },
+            {
+                "kanji": "午後",
+                "kana": "ごご",
+                "vietnamese": "PM"
+            },
+            {
+                "kanji": "昼",
+                "kana": "ひる",
+                "vietnamese": "Buổi trưa"
+            },
+            {
+                "kanji": "朝",
+                "kana": "あさ",
+                "vietnamese": "Buổi sáng"
+            },
+            {
+                "kanji": "夜",
+                "kana": "よる",
+                "vietnamese": "Buổi tối"
+            },
+            {
+                "kanji": "休み",
+                "kana": "やすみ",
+                "vietnamese": "(Ngày) nghỉ"
+            },
+            {
+                "kanji": "時間",
+                "kana": "じかん",
+                "vietnamese": "Thời gian"
+            },
+            {
+                "kanji": "～時",
+                "kana": "～じ",
+                "vietnamese": "Giờ"
+            },
+            {
+                "kanji": "～分",
+                "kana": "～ふん",
+                "vietnamese": "Phút"
+            },
+            {
+                "kanji": "～時半",
+                "kana": "～じはん",
+                "vietnamese": "Giờ rưỡi"
+            },
+            {
+                "kanji": "～曜日",
+                "kana": "～ようび",
+                "vietnamese": "Thứ"
+            },
+            {
+                "kanji": "１年",
+                "kana": "いちねん",
+                "vietnamese": "1 năm"
+            },
+            {
+                "kanji": "春",
+                "kana": "はる",
+                "vietnamese": "Mùa xuân"
+            },
+            {
+                "kanji": "夏",
+                "kana": "なつ",
+                "vietnamese": "Mùa hè"
+            },
+            {
+                "kanji": "秋",
+                "kana": "あき",
+                "vietnamese": "Mùa thu"
+            },
+            {
+                "kanji": "冬",
+                "kana": "ふゆ",
+                "vietnamese": "Mùa đông"
+            },
+            {
+                "kanji": "毎日",
+                "kana": "まいにち",
+                "vietnamese": "Hàng ngày"
+            },
+            {
+                "kanji": "毎朝",
+                "kana": "まいあさ",
+                "vietnamese": "Mỗi sáng"
+            },
+            {
+                "kanji": "毎晩",
+                "kana": "まいばん",
+                "vietnamese": "Mỗi tối"
+            }
+        ],
+        "verbs": [
+            {
+                "kanji": "行きます",
+                "kana": "いきます",
+                "vietnamese": "Đi"
+            },
+            {
+                "kanji": "帰ります",
+                "kana": "かえります",
+                "vietnamese": "Về"
+            },
+            {
+                "kanji": "飲みます",
+                "kana": "のみます",
+                "vietnamese": "Uống"
+            },
+            {
+                "kanji": "食べます",
+                "kana": "たべます",
+                "vietnamese": "Ăn"
+            },
+            {
+                "kanji": "見ます",
+                "kana": "みます",
+                "vietnamese": "Xem"
+            },
+            {
+                "kanji": "",
+                "kana": "します",
+                "vietnamese": "Làm, chơi"
+            },
+            {
+                "kanji": "買います",
+                "kana": "かいます",
+                "vietnamese": "Mua"
+            },
+            {
+                "kanji": "聞きます",
+                "kana": "ききます",
+                "vietnamese": "Nghe"
+            },
+            {
+                "kanji": "働きます",
+                "kana": "はたらきます",
+                "vietnamese": "Làm việc"
+            },
+            {
+                "kanji": "読みます",
+                "kana": "よみます",
+                "vietnamese": "Đọc"
+            },
+            {
+                "kanji": "起きます",
+                "kana": "おきます",
+                "vietnamese": "Thức dậy"
+            },
+            {
+                "kanji": "寝ます",
+                "kana": "ねます",
+                "vietnamese": "Ngủ"
+            },
+            {
+                "kanji": "勉強します",
+                "kana": "べんきょうします",
+                "vietnamese": "Học"
+            },
+            {
+                "kanji": "来ます",
+                "kana": "きます",
+                "vietnamese": "Đến"
+            }
+        ],
+        "question": [
+            {
+                "kanji": "何",
+                "kana": "なん／なに",
+                "vietnamese": "Cái gì?"
+            },
+            {
+                "kanji": "",
+                "kana": "いつ",
+                "vietnamese": "Lúc nào"
+            },
+            {
+                "kanji": "",
+                "kana": "どこ",
+                "vietnamese": "Ở đâu"
+            },
+            {
+                "kanji": "",
+                "kana": "だれ",
+                "vietnamese": "Ai"
+            },
+            {
+                "kanji": "何も",
+                "kana": "なにも",
+                "vietnamese": "Cái gì cũng..."
+            },
+            {
+                "kanji": "どこも",
+                "kana": "どこも",
+                "vietnamese": "Đâu cũng..."
+            }
+        ],
+        "greetings": [
+            {
+                "kanji": "",
+                "kana": "はじめまして",
+                "vietnamese": "Lần đầu gặp mặt"
+            },
+            {
+                "kanji": "（どうぞ）よろしくお願いします",
+                "kana": "（どうぞ）よろしくおねがいします",
+                "vietnamese": "Rất mong nhận được sự giúp đỡ của bạn"
+            },
+            {
+                "kanji": "",
+                "kana": "こちらこそ",
+                "vietnamese": "Tôi cũng vậy!"
+            },
+            {
+                "kanji": "",
+                "kana": "あのう",
+                "vietnamese": "Xin lỗi..."
+            },
+            {
+                "kanji": "",
+                "kana": "すみません",
+                "vietnamese": "Xin lỗi..."
+            },
+            {
+                "kanji": "",
+                "kana": "そうですか",
+                "vietnamese": "Thế à!"
+            },
+            {
+                "kanji": "",
+                "kana": "はい",
+                "vietnamese": "Vâng"
+            },
+            {
+                "kanji": "",
+                "kana": "いいえ",
+                "vietnamese": "Không, không phải"
+            },
+            {
+                "kanji": "",
+                "kana": "いらっしゃいませ",
+                "vietnamese": "Kính chào quý khách"
+            },
+            {
+                "kanji": "",
+                "kana": "（どうも）ありがとうございます",
+                "vietnamese": "Cảm ơn"
+            },
+            {
+                "kanji": "",
+                "kana": "いくらですか",
+                "vietnamese": "Bao nhiêu tiền?"
+            },
+            {
+                "kanji": "",
+                "kana": "じゃ",
+                "vietnamese": "Thế thì"
+            },
+            {
+                "kanji": "注文をお願いします",
+                "kana": "ちゅうもんをおねがいします",
+                "vietnamese": "Cho tôi gọi đồ"
+            },
+            {
+                "kanji": "",
+                "kana": "どうぞ",
+                "vietnamese": "Xin mời"
+            }
+        ]
+    }
 }

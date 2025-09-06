@@ -1,20 +1,32 @@
 {
     "categories": [
         {
-            "title": "Vị trí / Location words",
+            "title": "Trợ từ",
             "items": [
-                "上 / うえ – trên",
-                "下 / した – dưới",
-                "前 / まえ – trước",
-                "後ろ / うしろ – sau",
-                "右 / みぎ – phải",
-                "左 / ひだり – trái",
-                "中 / なか – trong",
-                "外 / そと – ngoài"
+                "N1 は N2 です - N1 là N2 (khẳng định)",
+                "N1 は N2 じゃありません - N1 không phải N2 (Phủ định)",
+                "N1 は N2 ですか - N1 có phải là N2 (Nghi vấn)",
+                "N1 と N2 です - N1 và N2",
+                "N1 や N2 など です - N1, N2, v.v",
+                "N1 の N2 ですか - N2 của N1 (Sở hữu/ chủng loại)",
+                "も - cũng (thay cho は)",
+                "に - trợ từ chỉ thời gian",
+                "を - trợ từ chỉ hành động",
+                "へ - trợ từ chỉ hành động di chuyển"
             ]
         },
         {
-            "title": "Hỏi tên trường / công ty / nhà",
+            "title": "Từ chỉ vị trí",
+            "items": [
+                "これ・それ・あれ - Cái này/ đó/ kia",
+                "こちら・そちら・あちら - Cái này/ đó/ kia (lịch sự)",
+                "この・その・あの N - Cái N này/ đó/ kia",
+                "ここ・そこ・あこ - Chỗ này/ đó/ kia",
+                "どこ – Trường học ở đâu?"
+            ]
+        },
+        {
+            "title": "Hỏi địa điểm",
             "items": [
                 "学校はどこですか？ – Trường học ở đâu?",
                 "会社はどちらですか？ – Công ty ở đâu?",
@@ -22,73 +34,58 @@
             ]
         },
         {
-            "title": "Xuất xứ / Nationality",
+            "title": "Hỏi đất nước",
             "items": [
-                "お国はどちらですか？ – Nước bạn là nước nào?",
-                "私はベトナム人です。 – Tôi là người Việt Nam."
+                "お国はどちらですか？ – Nước bạn ở đâu?",
+                "ベトナムです。 – Việt Nam."
             ]
         },
         {
-            "title": "Tiền / Money",
+            "title": "Hỏi tiền",
             "items": [
                 "いくらですか？ – Bao nhiêu tiền?",
-                "～円です。 – Là ~ yên."
+                "～円です。 – ~ yên."
             ]
         },
         {
-            "title": "Cấu trúc khẳng định / phủ định",
+            "title": "Hỏi chủng loại/ xuất xứ/ sở hữu",
             "items": [
-                "～です。 – Là … (khẳng định)",
-                "～ではありません。 – Không phải … (phủ định)"
+                "これは 何の N1   ですか？ – Cái N1 này là (chủng loại) gì?",
+                "N2 の (N1) です。 – N1 (chủng loại) N2",
+                "",
+                "これは どこの N1 ですか？ – Cái N1 này xuất xứ ở đấu?",
+                "N2 の (N1) です。 – N1 (xuất xứ ở/ của) N2",
+                "",
+                "これは 誰の N1 ですか？ – Cái N1 này của ai?",
+                "N2 の (N1) です。 – N1 của N2"
             ]
         },
         {
-            "title": "Thể loại / Chủng loại / Loại đồ vật",
+            "title": "Hỏi thời gian",
             "items": [
-                "これは何ですか？ – Đây là cái gì?",
-                "～は～です。 – … là …"
-            ]
-        },
-        {
-            "title": "Liệt kê / And / Thêm",
-            "items": [
-                "～と～ – và …",
-                "～や～ – và … (liệt kê không đầy đủ)"
-            ]
-        },
-        {
-            "title": "Thời gian / Time",
-            "items": [
-                "いま何時ですか？ – Bây giờ là mấy giờ?",
-                "～時 / ～じ – giờ",
-                "～分 / ～ふん – phút",
+                "今 何時 ですか？ – Bây giờ là mấy giờ?",
+                "～時～分 です – ...giờ...phút",
                 "毎朝 / まいあさ – mỗi sáng",
                 "毎晩 / まいばん – mỗi tối"
             ]
         },
         {
-            "title": "Chia động từ / Verb conjugation",
+            "title": "Hỏi từ bằng ngôn ngữ khác",
             "items": [
-                "行きます – Đi",
-                "来ます – Đến",
-                "食べます – Ăn",
-                "飲みます – Uống",
-                "見ます – Nhìn / Xem",
-                "します – Làm, chơi"
+                "「A」は B語 で 何ですか？ – 'A' bằng tiếng B là gì?"
             ]
         },
         {
-            "title": "Di chuyển / Movement verbs",
+            "title": "Chia động từ",
             "items": [
-                "行く – Đi",
-                "帰る – Về",
-                "来る – Đến"
+                "V ます – Động từ (khẳng định)",
+                "V ません – Động từ (phủ định)"
             ]
         },
         {
-            "title": "Hỏi từ này bằng ngôn ngữ khác",
+            "title": "Gọi món",
             "items": [
-                "「コンピュータ」はベトナム語で何ですか？ – 'Computer' bằng tiếng Việt là gì?"
+                "N を (～つ) ください - Cho tôi gọi (...cái) N"
             ]
         }
     ]

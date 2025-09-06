@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JPD113 - Grammar</title>
     <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="css/grammar.css">
+    <link rel="stylesheet" href="css/grammar_vocab.css">
 </head>
 
 <body>
@@ -18,26 +18,21 @@
                     <li><a href="index.html">Home</a></li>
                     <li><a href="kana.html">Kana</a></li>
                     <li><a href="vocab.html">Vocabulary</a></li>
-                    <li><a href="grammar.html"  class="active">Grammar</a></li>
+                    <li><a href="grammar.html" class="active">Grammar</a></li>
                     <li><a href="tests.html">Tests</a></li>
                 </ul>
                 <div class="burger">&#9776;</div>
             </nav>
         </header>
         <main>
-            <div class="tab-buttons">
-                <button id="counting-tab" class="tab-btn active">Counting</button>
-                <button id="grammar-tab" class="tab-btn">Grammar Structures</button>
+            <div class="view-toggle">
+                <button id="toggle-view">Grammar structures</button>
             </div>
 
-            <div class="expand-collapse-btns" style="margin: 1rem 0;">
-                <button id="expand-all">Expand All</button>
-                <button id="collapse-all">Collapse All</button>
+            <div id="grammar-tables" class="row">
             </div>
-
-            <div id="counting-content" class="tab-content"></div>
-            <div id="grammar-content" class="tab-content" style="display:none;"></div>
         </main>
+
 
         <footer>
             <p>© 2025 <a href="https://github.com/minhpham2856

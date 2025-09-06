@@ -1,0 +1,45 @@
+:root {
+    --color-black: #000;
+    --color-white: #fff;
+    --color-grey: #eee;
+}
+
+.vocab-row,
+.grammar-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    gap: 20px;
+}
+
+.col {
+    background-color: #fff;
+}
+
+.col td {
+    text-align: left;
+}
+
+.col li,
+.col p {
+    color: var(--color-black);
+}
+
+.view-toggle {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.view-toggle button {
+    padding: 0.6rem 1.2rem;
+    font-size: 1rem;
+    border: 2px solid var(--color-black);
+    background: var(--color-white);
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.3s ease;
+}
+
+.view-toggle button:hover {
+    background: var(--color-black);
+    color: var(--color-white);
+}

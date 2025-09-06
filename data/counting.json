@@ -246,14 +246,6 @@
                 {
                     "japanese": "じゅっぷん",
                     "vietnamese": "10 phút"
-                },
-                {
-                    "japanese": "にじゅっぷん",
-                    "vietnamese": "20 phút"
-                },
-                {
-                    "japanese": "さんじゅっぷん",
-                    "vietnamese": "30 phút"
                 }
             ]
         },
@@ -348,6 +340,10 @@
                 {
                     "japanese": "じゅっかい",
                     "vietnamese": "Tầng 10"
+                },
+                {
+                    "japanese": "ちか～かい",
+                    "vietnamese": "(Tầng) hầm"
                 }
             ]
         },
@@ -416,28 +412,12 @@
                     "vietnamese": "さんびゃく"
                 },
                 {
-                    "japanese": "400",
-                    "vietnamese": "よんひゃく"
-                },
-                {
-                    "japanese": "500",
-                    "vietnamese": "ごひゃく"
-                },
-                {
                     "japanese": "600",
                     "vietnamese": "ろっぴゃく"
                 },
                 {
-                    "japanese": "700",
-                    "vietnamese": "ななひゃく"
-                },
-                {
                     "japanese": "800",
                     "vietnamese": "はっぴゃく"
-                },
-                {
-                    "japanese": "900",
-                    "vietnamese": "きゅうひゃく"
                 },
                 {
                     "japanese": "1,000",
@@ -452,28 +432,12 @@
                     "vietnamese": "さんぜん"
                 },
                 {
-                    "japanese": "4,000",
-                    "vietnamese": "よんせん"
-                },
-                {
                     "japanese": "5,000",
                     "vietnamese": "ごせん"
                 },
                 {
-                    "japanese": "6,000",
-                    "vietnamese": "ろくせん"
-                },
-                {
-                    "japanese": "7,000",
-                    "vietnamese": "ななせん"
-                },
-                {
                     "japanese": "8,000",
                     "vietnamese": "はっせん"
-                },
-                {
-                    "japanese": "9,000",
-                    "vietnamese": "きゅうせん"
                 },
                 {
                     "japanese": "10,000",
