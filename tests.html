@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JPD113 - Tests</title>
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/tests.css">
 </head>
 
 <body>
@@ -14,6 +15,7 @@
             <h1>JPD113 - Tests</h1>
             <nav>
                 <ul class="navbar">
+                    <li><span id="dark-mode-toggle">🌙</span></li>
                     <li><a href="index.html">Home</a></li>
                     <li><a href="kana.html">Kana</a></li>
                     <li><a href="vocab.html">Vocabulary</a></li>
@@ -25,23 +27,26 @@
         </header>
 
         <main>
-            <section class="intro">
-                <h2>WIP!</h2>
-                <p>Coming soon!
-                </p>
-            </section>
+            <div class="view-toggle">
+                <button data-mode="reading">Reading</button>
+                <button data-mode="pictured">Pictured Speaking</button>
+                <button data-mode="no-picture">Non-pictured Speaking</button>
+            </div>
+
+            <div id="tests-container">
+            </div>
         </main>
+
 
         <footer>
             <p>© 2025 <a href="https://github.com/minhpham2856
 ">日明のギート</a></p>
         </footer>
     </div>
-    <script>
-        document.querySelector(".burger").addEventListener("click", () => {
-            document.querySelector(".navbar").classList.toggle("show");
-        });
-    </script>
+    <button id="backToTop">↑ Top</button>
+
+    <script src="js/main.js"></script>
+    <script src="js/tests.js"></script>
 </body>
 
 </html>

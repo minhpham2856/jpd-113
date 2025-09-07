@@ -6,6 +6,12 @@
     --color-grey: #eee;
 }
 
+body.dark-mode {
+    --color-black: #eee;
+    --color-white: #112;
+    --color-grey: #444;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -54,7 +60,7 @@ nav {
     display: inline;
 }
 
-.navbar a {
+.navbar li * {
     text-decoration: none;
     color: var(--color-black);
     border: 2px solid var(--color-black);
@@ -64,8 +70,8 @@ nav {
     transition: 0.3s ease;
 }
 
-.navbar a:hover,
-.navbar a.active {
+.navbar li *:hover,
+.navbar li *.active {
     color: var(--color-white);
     background: var(--color-black);
 }
@@ -105,11 +111,12 @@ footer {
 
 footer * {
     font-size: 1.2rem;
+    font-weight: bold;
     color: var(--color-white);
 }
 
 footer a:hover {
-    color: #ef0;
+    color: #f20;
 }
 
 /* table */
@@ -117,6 +124,7 @@ footer a:hover {
 table {
     width: 100%;
     border-collapse: collapse;
+
     font-size: 1.2rem;
     text-align: center;
     overflow: hidden;
@@ -149,6 +157,40 @@ tr:nth-child(even) td {
     transition: 0.3s ease;
 }
 
+/* back to top */
+
+#backToTop {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+    padding: 1rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border: 2px solid var(--color-black);
+    background: var(--color-white);
+    color: var(--color-black);
+    cursor: pointer;
+    transition: 0.1s;
+    z-index: 1000;
+}
+
+#backToTop.show {
+    display: block;
+}
+
+#backToTop:hover {
+    background: var(--color-black);
+    color: var(--color-white);
+    transform: scale(1.5) translate(-10px, -10px);
+}
+
+/* fixes */
+
+button, td, th {
+    color: var(--color-black);
+}
+
 @media (max-width: 1080px) {
     .navbar {
         display: none;
@@ -166,8 +208,9 @@ tr:nth-child(even) td {
         gap: 2rem;
     }
 
-    .navbar li a {
+    .navbar li * {
         display: flex;
+        justify-content: center;
     }
 
     .burger {

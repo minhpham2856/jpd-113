@@ -7,12 +7,12 @@
 .vocab-row,
 .grammar-row {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
 }
 
 .col {
-    background-color: #fff;
+    background-color: var(--color-white);
 }
 
 #grammar-row .col {
@@ -58,9 +58,7 @@ tr:nth-child(even) td {
     color: var(--color-white);
 }
 
-
 @media screen and (max-width: 1080px) {
-
     .vocab-row,
     .grammar-row {
         grid-template-columns: 1fr;

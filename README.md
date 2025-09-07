@@ -21,12 +21,13 @@ This project provides **kana, vocabulary, grammar, and self-practice tools** in 
 ```
 /index.html        → Home
 /kana.html         → Kana tables
-/vocab.html        → Vocabulary (by units / topics)
+/vocab.html        → Vocabulary (by units/ topics)
 /grammar.html      → Grammar structures
 /tests.html        → Practice tests
 /css/              → Stylesheets
 /js/               → Page scripts
-/data/             → JSON vocab & grammar data
+/data/             → JSON files containing vocabulary, grammar, and test data
+/images/           → Images for speaking practice
 ```
 
 ## 🚀 Getting Started
