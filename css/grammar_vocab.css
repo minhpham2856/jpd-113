@@ -7,12 +7,16 @@
 .vocab-row,
 .grammar-row {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     gap: 20px;
 }
 
 .col {
     background-color: #fff;
+}
+
+#grammar-row .col {
+    border: 2px solid var(--color-black);
 }
 
 .col td {
@@ -22,6 +26,16 @@
 .col li,
 .col p {
     color: var(--color-black);
+    padding: 0 1rem 1rem;
+    font-size: 1.4rem;
+}
+
+.col p:nth-child(2) {
+    padding: 1rem;
+}
+
+tr:nth-child(even) td {
+    background: var(--color-grey);
 }
 
 .view-toggle {
@@ -42,4 +56,13 @@
 .view-toggle button:hover {
     background: var(--color-black);
     color: var(--color-white);
+}
+
+
+@media screen and (max-width: 1080px) {
+
+    .vocab-row,
+    .grammar-row {
+        grid-template-columns: 1fr;
+    }
 }

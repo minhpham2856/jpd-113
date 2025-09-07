@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if(viewMode === "counting") {
             renderGrammar(grammarData.grammar);
             viewMode = "grammar";
-            document.getElementById("toggle-view").textContent = "View Counting";
+            document.getElementById("toggle-view").textContent = "Counting";
         } else {
             renderCounting(grammarData.counting);
             viewMode = "counting";
@@ -62,6 +62,7 @@ function renderGrammar(data) {
     clearTables();
     const row = document.createElement("div");
     row.classList.add("grammar-row");
+    row.id = "grammar-row";
 
     data.categories.forEach(cat => {
         const col = document.createElement("div");

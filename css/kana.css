@@ -11,11 +11,7 @@ tr:nth-child(even) td {
     background: var(--color-white);
 }
 
-tr:hover {
-    background-color: #aaa;
-}
-
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1080px) {
     main {
         flex-direction: column;
     }
