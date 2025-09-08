@@ -29,7 +29,7 @@ function clearTables() {
 function renderUnits(data) {
     clearTables();
     const row = document.createElement("div");
-    row.classList.add("vocab-row");
+    row.classList.add("vocab-row", "vocab-units-row");
 
     ["unit1","unit2","unit3"].forEach(unitKey => {
         if(!data[unitKey]) return;
@@ -61,7 +61,7 @@ function renderUnits(data) {
 function renderTypes(types) {
     clearTables();
     const row = document.createElement("div");
-    row.classList.add("vocab-row");
+    row.classList.add("vocab-row", "vocab-topics-row");
 
     Object.keys(types).forEach(type => {
         const col = document.createElement("div");

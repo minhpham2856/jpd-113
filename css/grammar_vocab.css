@@ -4,11 +4,26 @@
     --color-grey: #eee;
 }
 
-.vocab-row,
-.grammar-row {
+.vocab-units-row {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(3, 1fr);
     gap: 20px;
+}
+
+.vocab-topics-row {
+    column-count: 3;
+    column-gap: 20px;
+}
+
+.grammar-row {
+    column-count: 3;
+    column-gap: 20px;
+}
+
+.col {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 20px;
 }
 
 .col {
@@ -59,8 +74,18 @@ tr:nth-child(even) td {
 }
 
 @media screen and (max-width: 1080px) {
-    .vocab-row,
-    .grammar-row {
+    .vocab-units-row {
         grid-template-columns: 1fr;
+    }
+
+    .vocab-topics-row {
+        column-count: 1;
+        column-gap: 20px;
+    }
+
+    .grammar-row {
+        column-count: 1;
+        column-gap: 20px;
+        break-inside: avoid;
     }
 }
