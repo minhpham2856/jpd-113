@@ -4,11 +4,12 @@
     --color-black: #000;
     --color-white: #fff;
     --color-grey: #eee;
+    --color-red: #f20;
 }
 
 body.dark-mode {
     --color-black: #eee;
-    --color-white: #112;
+    --color-white: #222;
     --color-grey: #444;
 }
 
@@ -64,6 +65,7 @@ nav {
     text-decoration: none;
     color: var(--color-black);
     border: 2px solid var(--color-black);
+    border-radius: 1.5rem;
     background: var(--color-white);
     padding: 0.5rem 1rem;
     font-weight: bold;
@@ -96,6 +98,7 @@ main section {
     border: 2px solid var(--color-black);
     color: var(--color-black);
     padding: 1.5rem;
+    border-radius: 1.5rem;
     margin-top: 2rem;
 }
 
@@ -103,20 +106,33 @@ main section {
     padding: 0.4rem 0;
 }
 
-footer {
-    text-align: center;
-    padding: 1rem;
-    background: var(--color-black);
+.header-link {
+    color: var(--color-black);
+    text-decoration: none;
 }
 
-footer * {
+.header-link:hover {
+    color: var(--color-red);
+}
+
+/* Footer */
+footer {
+    margin-top: 2rem;
+    padding: 1rem 0;
+    text-align: center;
+    color: var(--color-white);
+    background-color: var(--color-black);
     font-size: 1.2rem;
     font-weight: bold;
+}
+
+footer a {
     color: var(--color-white);
+    text-decoration: none;
 }
 
 footer a:hover {
-    color: #f20;
+    color: var(--color-red);
 }
 
 /* table */
@@ -124,7 +140,7 @@ footer a:hover {
 table {
     width: 100%;
     border-collapse: collapse;
-
+    border-radius: 0 0 1.5rem 1.5rem;
     font-size: 1.2rem;
     text-align: center;
     overflow: hidden;
@@ -149,11 +165,13 @@ tr:nth-child(even) td {
 
 .text-header {
     font-weight: bold;
-    border: 2px solid var(--color-black);
+    /* border: 2px solid var(--color-black); */
     text-align: center;
     color: var(--color-white);
     background-color: var(--color-black);
     padding: 1rem;
+    margin: 0 2px -2px;
+    border-radius: 1.5rem 1.5rem 0 0;
     transition: 0.3s ease;
 }
 
@@ -191,6 +209,10 @@ button, td, th {
     color: var(--color-black);
 }
 
+button {
+    border-radius: 1.5rem;
+}
+
 @media (max-width: 1080px) {
     .navbar {
         display: none;
@@ -206,6 +228,7 @@ button, td, th {
     .navbar.show {
         display: flex;
         gap: 2rem;
+        border-radius: 1.5rem;
     }
 
     .navbar li * {

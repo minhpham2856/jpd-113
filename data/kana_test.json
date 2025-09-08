@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the hiragana for 'ka'?",
+        "choices": [
+            "か",
+            "き",
+            "く",
+            "け"
+        ],
+        "answer": "か"
+    },
+    {
+        "question": "What is the katakana for 'shi'?",
+        "choices": [
+            "シ",
+            "ス",
+            "セ",
+            "ソ"
+        ],
+        "answer": "シ"
+    }
+]

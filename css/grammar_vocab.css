@@ -4,19 +4,35 @@
     --color-grey: #eee;
 }
 
-.vocab-row,
-.grammar-row {
+.vocab-units-row {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(3, 1fr);
     gap: 20px;
 }
 
+.vocab-topics-row {
+    column-count: 3;
+    column-gap: 20px;
+}
+
+.grammar-row {
+    column-count: 3;
+    column-gap: 20px;
+}
+
 .col {
-    background-color: var(--color-white);
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 20px;
 }
 
 #grammar-row .col {
-    border: 2px solid var(--color-black);
+    background-color: var(--color-white);
+    border-radius: 1.5rem;
+}
+
+#grammar-row .text-header {
+    margin: 0;
 }
 
 .col td {
@@ -34,8 +50,8 @@
     padding: 1rem;
 }
 
-tr:nth-child(even) td {
-    background: var(--color-grey);
+tr:nth-child(odd) td {
+    background: var(--color-white);
 }
 
 .view-toggle {
@@ -59,8 +75,18 @@ tr:nth-child(even) td {
 }
 
 @media screen and (max-width: 1080px) {
-    .vocab-row,
-    .grammar-row {
+    .vocab-units-row {
         grid-template-columns: 1fr;
+    }
+
+    .vocab-topics-row {
+        column-count: 1;
+        column-gap: 20px;
+    }
+
+    .grammar-row {
+        column-count: 1;
+        column-gap: 20px;
+        break-inside: avoid;
     }
 }
