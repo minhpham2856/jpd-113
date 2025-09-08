@@ -228,6 +228,7 @@ button {
     .navbar.show {
         display: flex;
         gap: 2rem;
+        border-radius: 1.5rem;
     }
 
     .navbar li * {

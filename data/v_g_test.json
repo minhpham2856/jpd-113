@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the meaning of 'konnichiwa'?",
+        "choices": [
+            "Good morning",
+            "Good afternoon",
+            "Good evening",
+            "Good night"
+        ],
+        "answer": "Good afternoon"
+    },
+    {
+        "question": "Which particle indicates the subject of a sentence?",
+        "choices": [
+            "は (wa)",
+            "を (o)",
+            "に (ni)",
+            "で (de)"
+        ],
+        "answer": "は (wa)"
+    }
+]
